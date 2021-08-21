@@ -102,5 +102,5 @@ theme: tree
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/Xindot/x-note.git
+  # type: git
+  # repo: https://github.com/Xindot/x-note.git
